@@ -28,3 +28,4 @@ If you're not familiar with caffe's flow yet, dennis-chen's reply [here](https:/
 
 Calibration nets are also trained similarly, scripts can be found in **face_calibration/**
 
+文献地址：https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf
